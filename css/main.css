@@ -6,3 +6,11 @@ img
 {
     border: solid;
 }
+h1
+{
+    font-weight: bolder;
+}
+.homelink
+{
+    font-size:large;
+}
